@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: ba2c2c5c5fbf5cd44a98626535098246
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Angry
+    100002: Angry_end
+    100004: Bottom0
+    100006: Bottom0_end
+    100008: Bottom1
+    100010: Bottom1_end
+    100012: Bottom2
+    100014: Bottom2_end
+    100016: Bottom3
+    100018: Bottom3_end
+    100020: Eye.L
+    100022: Eye.L_end
+    100024: Eye.R
+    100026: Eye.R_end
+    100028: EyeMain
+    100030: EyeRig
+    100032: Eyes
+    100034: Happy
+    100036: Happy_end
+    100038: JellyRig
+    100040: Main
+    100042: Sad
+    100044: Sad_end
+    100046: Top0
+    100048: Top0_end
+    100050: Top1
+    100052: Top1_end
+    100054: Top2
+    100056: Top2_end
+    100058: Top3
+    100060: Top3_end
+    100062: //RootNode
+    100064: WJelly
+    400000: Angry
+    400002: Angry_end
+    400004: Bottom0
+    400006: Bottom0_end
+    400008: Bottom1
+    400010: Bottom1_end
+    400012: Bottom2
+    400014: Bottom2_end
+    400016: Bottom3
+    400018: Bottom3_end
+    400020: Eye.L
+    400022: Eye.L_end
+    400024: Eye.R
+    400026: Eye.R_end
+    400028: EyeMain
+    400030: EyeRig
+    400032: Eyes
+    400034: Happy
+    400036: Happy_end
+    400038: JellyRig
+    400040: Main
+    400042: Sad
+    400044: Sad_end
+    400046: Top0
+    400048: Top0_end
+    400050: Top1
+    400052: Top1_end
+    400054: Top2
+    400056: Top2_end
+    400058: Top3
+    400060: Top3_end
+    400062: WJelly
+    400064: //RootNode
+    2100000: Eye_White
+    2100002: Eye_Black
+    2100004: Material
+    4300000: Eyes
+    4300002: WJelly
+    7400000: Static
+    7400002: SmallWiggle
+    7400004: LargeWiggle
+    7400006: LargeDrive
+    7400008: SmallDrive
+    7400010: MidWiggle
+    7400012: MidDrive
+    7400014: Eye_Static
+    7400016: Eye_Drive
+    7400018: Eye_Wiggle
+    7400020: Eye_Normal
+    7400022: Eye_Sad
+    7400024: Eye_Happy
+    7400026: Eye_Angry
+    9500000: //RootNode
+    13700000: Eyes
+    13700002: WJelly
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Black
+    second: {fileID: 2100000, guid: f96ac7034cbf6eb40a1426fefb8b62b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_White
+    second: {fileID: 2100000, guid: 27161963e022b9143b483d3d8345c20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9bac8965d2477854787a3c8159bffe9b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
